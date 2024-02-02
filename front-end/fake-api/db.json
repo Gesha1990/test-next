@@ -1,0 +1,8 @@
+{
+    "productList": [
+      { "id": "1", "title": "a title", "price": "100$", "category": "Lux", "isAvailable":true },
+      { "id": "2", "title": "another title", "price": "100$", "category": "Premium", "isAvailable":true },
+      { "id": "3", "title": "title 3", "price": "300$", "category": "Economical", "isAvailable":false },
+      { "id": "4", "title": "title 4", "price": "400$", "category": "Economical", "isAvailable":false }
+    ]
+  }
