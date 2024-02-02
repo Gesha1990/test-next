@@ -28,6 +28,7 @@ const Form = ({ setComments }: IProps) => (
             return [...prevComments, values]
           })
           setSubmitting(false);
+          alert("Comment successfully created")
         }, 400);
       }}
     >
