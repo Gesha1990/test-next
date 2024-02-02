@@ -19,7 +19,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         <header className="p-10">
-          <ul className="flex">
+          <ul className="flex justify-center">
             <li className="pr-5">
               <Link href="/productList">Products List</Link>
             </li>
